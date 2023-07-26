@@ -142,7 +142,7 @@ We used Virtuoso Open Source Edition, version 7.2.6.
 
   And inside the `isql` console run:
 
-  - `ld_dir('[path_to_virtuoso_folder]', '[virtuoso_nt_file]', 'http://wikidata.org/);`
+  - `ld_dir('[path_to_virtuoso_folder]', '[virtuoso_nt_file]', 'http://wikidata.org/');`
   - `rdf_loader_run();`
 
 ## Data loading for Blazegraph
